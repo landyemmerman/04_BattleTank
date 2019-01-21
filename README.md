@@ -7,3 +7,4 @@ These are just the files from the course, not the actual tutorial videos.  This 
 ## Lecture List
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
+* BT03 Setting Up a Github "Repo"
