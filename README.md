@@ -5,4 +5,5 @@ The full course is part of [this](https://www.kickstarter.com/projects/bentriste
 These are just the files from the course, not the actual tutorial videos.  This course is exclusively hosted on Udemy.com and has many hours of high-quality videos.
 
 ## Lecture List
-*BT01 Intro, Notes & Assets
+* BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
